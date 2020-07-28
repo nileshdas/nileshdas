@@ -33,7 +33,7 @@
 
 - 👩🏾‍💻 I like programming and football. :soccer:
 - I like to work with technologies like ReactJS, NodeJS and Django. :computer:
-- I am a web-developer in making. :globe_with_meridians:
+- I am a web-developer in beta phase. :globe_with_meridians:
 
 <br />
 <br />
