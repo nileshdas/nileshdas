@@ -1,5 +1,6 @@
-### Hi there, 👋 I am Nilesh!
+# Hi there, 👋 I am Nilesh!
 
+### You can also find me here!
 <a href="https://twitter.com/NileshDas15">
   <img align="left" alt="Nilesh Das | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -28,11 +29,20 @@
 
  <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="480px"/>
 
-- 👩🏾‍💻 I like programming and football :soccer:
+ <br />
+
+- 👩🏾‍💻 I like programming and football. :soccer:
+- I like to work with technologies like ReactJS, NodeJS and Django. :computer:
+- I am a web-developer in making. :computer::globe_with_meridians:
+
+<br />
+<br />
+<br />
 
 
-<br />
-<br />
-<br />
+
+
+
+
 
 ![Nilesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nileshdas&show_icons=true&theme=radical)
