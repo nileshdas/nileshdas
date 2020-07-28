@@ -13,7 +13,7 @@
 <a href="https://www.instagram.com/nilesh__das/">
   <img align="left" alt="Nilesh's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://medium.com/@trohila10">
+<a href="https://medium.com/@nileshdas_12546/">
   <img align="left" alt="Nilesh's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 <a href="https://codepen.io/nileshdas-the-lessful">
