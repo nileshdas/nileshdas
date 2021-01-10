@@ -32,7 +32,7 @@
  <br />
 
 - 👩🏾‍💻 I like programming and football. :soccer:
-- I like to work with technologies like ReactJS, NodeJS and Django. :computer:
+- I like to work with technologies like ReactJS and NodeJS :computer:
 - I am a web-developer in beta phase. :globe_with_meridians:
 
 <br />
